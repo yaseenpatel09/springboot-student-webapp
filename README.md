@@ -7,14 +7,22 @@ Thymeleaf-based frontend for user interaction
 RESTful controller for backend logic
 Exception handling for missing resources
 JPA + MySQL integration
+
+
 🖼️ UI Screens
+
 📋 Student List View
+
+
 🛠 Tech Stack
 Java 17+
 Spring Boot (Web, JPA, Thymeleaf)
 Thymeleaf (HTML templating)
 MySQL
 Maven
+
+
+
 ⚙️ How to Run Locally
 Clone the repository
 git clone https://github.com/your-username/student-manager-web.git
